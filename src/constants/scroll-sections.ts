@@ -74,11 +74,10 @@ export default [
     emoji: ["🐔"],
     killRate: 2338,
     speed: 8,
+    numberSource:
+      "https://ourworldindata.org/grapher/animals-slaughtered-for-meat",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, voluptatibus.",
-    sources: [
-      "https://ourworldindata.org/grapher/animals-slaughtered-for-meat",
-    ],
   },
   {
     title: "Wild Species",
@@ -112,9 +111,8 @@ export default [
       "🦘",
       "🦡",
     ],
-    sources: [
+    numberSource:
       "https://wwf.panda.org/discover/our_focus/biodiversity/biodiversity/",
-    ],
     killRate: 0.0003,
     speed: 1,
     description:
