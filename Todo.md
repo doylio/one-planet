@@ -1,0 +1,7 @@
+- [ ] Finish descriptions
+- [ ] Add source links
+- [x] Add different kill emojis
+- [ ] Finish footer and CTAs
+- [x] Experiment with overlay
+- [ ] Share your commitment button
+- [ ] Setup hosting and deployment
